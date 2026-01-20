@@ -1,6 +1,8 @@
-# 📄 revpdf-release
+# <img src="images/icon.png" width="32" height="32"> revpdf-release
 
 Official release repository for **revpdf** — a fast, native, and privacy-focused offline PDF editor.
+
+![Showcase](images/combined.jpeg)
 
 [**Download for Android**](https://play.google.com/store/apps/details?id=com.revpdf.editor) | [**Official Website**](https://www.revpdf.com)
 
