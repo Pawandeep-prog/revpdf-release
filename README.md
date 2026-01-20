@@ -30,7 +30,7 @@ Select your platform below to download the latest stable release:
 - [Latest DMG](macos/)
 
 #### 🪟 Windows
-- [Latest EXE/MSI](windows/)
+- Coming Soon
 
 ---
 
