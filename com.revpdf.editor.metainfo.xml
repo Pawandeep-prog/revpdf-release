@@ -29,7 +29,7 @@
   <launchable type="desktop-id">com.revpdf.editor.desktop</launchable>
 
   <url type="homepage">https://revpdf.com/</url>
-  <url type="license">https://revpdf.com/license</url>
+  <url type="license">https://github.com/Pawandeep-prog/revpdf-release/blob/main/LICENSE</url>
   <url type="bugtracker">https://github.com/Pawandeep-prog/revpdf-release/issues</url>
 
   <screenshots>
