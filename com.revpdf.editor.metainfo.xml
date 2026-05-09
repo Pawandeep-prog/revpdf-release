@@ -34,19 +34,19 @@
 
   <screenshots>
     <screenshot type="default">
-      <image>https://raw.githubusercontent.com/Pawandeep-prog/revpdf-release/main/images/home.png</image>
+      <image>https://raw.githubusercontent.com/Pawandeep-prog/revpdf-release/157c065faf006c55fd9fbe70761a290c4e019403/images/home.png</image>
       <caption>RevPDF Editor home screen</caption>
     </screenshot>
     <screenshot>
-      <image>https://raw.githubusercontent.com/Pawandeep-prog/revpdf-release/main/images/edit.png</image>
+      <image>https://raw.githubusercontent.com/Pawandeep-prog/revpdf-release/157c065faf006c55fd9fbe70761a290c4e019403/images/edit.png</image>
       <caption>Editing and annotating a PDF document</caption>
     </screenshot>
     <screenshot>
-      <image>https://raw.githubusercontent.com/Pawandeep-prog/revpdf-release/main/images/tools.png</image>
+      <image>https://raw.githubusercontent.com/Pawandeep-prog/revpdf-release/157c065faf006c55fd9fbe70761a290c4e019403/images/tools.png</image>
       <caption>Drawing, text, and redaction tools</caption>
     </screenshot>
     <screenshot>
-      <image>https://raw.githubusercontent.com/Pawandeep-prog/revpdf-release/main/images/scanner.png</image>
+      <image>https://raw.githubusercontent.com/Pawandeep-prog/revpdf-release/157c065faf006c55fd9fbe70761a290c4e019403/images/scanner.png</image>
       <caption>On-device OCR scanner to make PDFs searchable</caption>
     </screenshot>
   </screenshots>
