@@ -1,0 +1,64 @@
+RevPDF Editor — End User License Agreement (EULA)
+Copyright (c) 2025–2026 Pawandeep Singh. All rights reserved.
+
+────────────────────────────────────────────────────────────────────────────────
+
+GRANT OF LICENSE
+
+Subject to the terms of this Agreement, Pawandeep Singh ("Author") grants you
+a free, worldwide, non-exclusive, non-transferable license to:
+
+  1. Install and use RevPDF Editor on desktop operating systems (Linux, macOS,
+     Windows) at no charge.
+
+  2. Redistribute unmodified copies of the official RevPDF Editor binaries
+     (including Flatpak bundles, AppImage files, and packages produced from
+     those binaries) through software repositories, package managers, or
+     app stores, provided that:
+
+       a. You distribute the binaries unchanged and in their entirety.
+       b. You include this license file with every redistribution.
+       c. You do not charge a fee for the software itself (redistribution
+          infrastructure costs such as hosting are permitted).
+
+RESTRICTIONS
+
+Unless expressly permitted above, you may not:
+
+  a. Modify, adapt, translate, or create derivative works of the software.
+  b. Reverse-engineer, decompile, disassemble, or otherwise attempt to derive
+     source code from the software.
+  c. Sublicense, rent, lease, or sell the software or any rights in it.
+  d. Remove or alter any copyright, trademark, or other proprietary notices.
+  e. Use the RevPDF name, logo, or branding to imply endorsement of your own
+     products or services without prior written permission.
+
+INTELLECTUAL PROPERTY
+
+The software, including all copies and portions thereof, is and remains the
+exclusive property of Pawandeep Singh. This Agreement does not transfer any
+ownership rights. All rights not expressly granted are reserved.
+
+DISCLAIMER OF WARRANTIES
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+LIMITATION OF LIABILITY
+
+IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL,
+EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING LOSS OF DATA OR PROFITS) ARISING
+OUT OF OR IN CONNECTION WITH THE USE OR INABILITY TO USE THE SOFTWARE, EVEN IF
+ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+TERMINATION
+
+This license is effective until terminated. It terminates automatically if you
+breach any of its terms. Upon termination you must destroy all copies of the
+software in your possession.
+
+
+────────────────────────────────────────────────────────────────────────────────
+
+For permissions beyond the scope of this license, contact: editor@revpdf.com
