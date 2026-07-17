@@ -26,13 +26,13 @@ Official release repository for **revpdf** — a fast, native, and privacy-focus
 Select your platform below to download the latest stable release:
 
 #### 🐧 Linux
-- [Latest AppImage](linux/)
+- [Latest AppImage](https://github.com/Pawandeep-prog/revpdf-release/releases/latest)
 
 #### 🍎 macOS
-- [Latest DMG](macos/)
+- [Latest DMG](https://github.com/Pawandeep-prog/revpdf-release/releases/latest)
 
 #### 🪟 Windows
-- [Latest Beta (exe)](windows/)
+- [Latest Beta (exe)](https://github.com/Pawandeep-prog/revpdf-release/releases/latest)
 
 ---
 
