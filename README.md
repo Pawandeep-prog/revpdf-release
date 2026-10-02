@@ -1,5 +1,7 @@
 # <img src="images/icon.png" width="32" height="32"> revpdf-release
 
+English | [简体中文](README.zh-CN.md)
+
 Official release repository for **revpdf** — a fast, native, and privacy-focused offline PDF editor.
 
 ![Showcase](images/combined.jpeg)
